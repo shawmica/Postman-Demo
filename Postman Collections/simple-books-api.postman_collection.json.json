@@ -13,7 +13,8 @@
 			},
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": "https://simple-books-api.click/status"
 			},
 			"response": []
 		},
